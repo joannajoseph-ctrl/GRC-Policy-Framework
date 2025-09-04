@@ -1,5 +1,13 @@
-Policy,Policy Statement ID,Control,NIST CSF Function,Category,Subcategory
-Access Control,AC-1,MFA Required for all production access,Protect,PR.AC,PR.AC-7
-Access Control,AC-2,Passwords must be at least 12 characters,Protect,PR.AC,PR.AC-1
-Incident Response,IR-1,Incident Response Plan with roles and responsibilities,Respond,RS.RP,RS.RP-1
-Data Privacy,DP-1,Personal data is encrypted at rest and in transit,Protect,PR.DS,PR.DS-1
+Policy,Policy Statement ID,Control Text,NIST CSF Function,Category,Subcategory
+Information Security,IS-1,Company maintains an information security policy framework,IDENTIFY,ID.GV,ID.GV-1
+Information Security,IS-2,Annual security awareness training is required,PROTECT,PR.AT,PR.AT-1
+Access Control,AC-1,MFA is required for all production access,PROTECT,PR.AC,PR.AC-7
+Access Control,AC-2,Passwords must be at least 12 characters,PROTECT,PR.AC,PR.AC-1
+Access Control,AC-3,Privileged access requires a separate admin account,PROTECT,PR.AC,PR.AC-4
+Access Control,AC-4,Access reviews occur quarterly,PROTECT,PR.AC,PR.AC-4
+Incident Response,IR-1,An Incident Response Plan defines roles and responsibilities,RESPOND,RS.RP,RS.RP-1
+Incident Response,IR-2,Incidents are reported within 1 hour of discovery,RESPOND,RS.CO,RS.CO-2
+Incident Response,IR-3,Post-incident lessons learned are documented,RESPOND,RS.IM,RS.IM-1
+Data Privacy,DP-1,Personal data is encrypted at rest,PROTECT,PR.DS,PR.DS-1
+Data Privacy,DP-2,Personal data is encrypted in transit (TLS 1.2+),PROTECT,PR.DS,PR.DS-2
+Data Privacy,DP-3,Data deletion requests are processed within 30 days,PROTECT,PR.DS,PR.DS-5
