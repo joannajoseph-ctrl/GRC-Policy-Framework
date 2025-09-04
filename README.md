@@ -38,6 +38,5 @@ A strong policy and compliance mapping process:
 - Provides a clear roadmap for maturing the security program  
 
 ---
-
-🔹 **This project has been created as part of my GRC portfolio** to showcase my experience in security governance, risk management, and compliance.
+**This project has been created as part of my GRC portfolio** to showcase my experience in security governance, risk management, and compliance.
 
