@@ -1,6 +1,6 @@
 Policy,Policy Statement ID,Control Text,ISO 27001 Annex,Clause
 Information Security,IS-1,Company maintains an information security policy framework,A.5.1,Policies for information security
-Information Security,IS-2,Annual security awareness training is required,A.6.3,Information security awareness, education and training
+Information Security,IS-2,Annual security awareness training is required,A.6.3,Information security awareness
 Access Control,AC-1,MFA is required for all production access,A.5.15,Access control policy
 Access Control,AC-2,Passwords must be at least 12 characters,A.5.17,Authentication information
 Access Control,AC-3,Privileged access requires a separate admin account,A.5.18,Access rights
@@ -11,4 +11,5 @@ Incident Response,IR-3,Post-incident lessons learned are documented,A.5.24,Infor
 Data Privacy,DP-1,Personal data is encrypted at rest,A.8.24,Use of cryptography
 Data Privacy,DP-2,Personal data is encrypted in transit (TLS 1.2+),A.8.24,Use of cryptography
 Data Privacy,DP-3,Data deletion requests are processed within 30 days,A.8.10,Retention of information
+
 
