@@ -1,7 +1,7 @@
 # GRC Project – Policies & Compliance Mapping
 
 ## Project Overview
-This project showcases how an organization can build a foundational information security policy framework and map it to industry standards.  
+This project showcases how Pura Health Cloud can build a foundational information security policy framework and map it to industry standards.  
 The goal is to show alignment with the **NIST Cybersecurity Framework (CSF)** and **ISO 27001**, while also identifying gaps that require remediation.
 
 ## Objectives
