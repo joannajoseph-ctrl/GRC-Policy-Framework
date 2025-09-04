@@ -1,0 +1,5 @@
+Policy,Policy Statement ID,Control,NIST CSF Function,Category,Subcategory
+Access Control,AC-1,MFA Required for all production access,Protect,PR.AC,PR.AC-7
+Access Control,AC-2,Passwords must be at least 12 characters,Protect,PR.AC,PR.AC-1
+Incident Response,IR-1,Incident Response Plan with roles and responsibilities,Respond,RS.RP,RS.RP-1
+Data Privacy,DP-1,Personal data is encrypted at rest and in transit,Protect,PR.DS,PR.DS-1
